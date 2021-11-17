@@ -1,0 +1,1 @@
+Skybox image "[HDRi] Muir wood white balanced.exr" is taken from Unity's HDRI pack - https://assetstore.unity.com/packages/essentials/beta-projects/unity-hdri-pack-72511

@@ -1361,7 +1361,7 @@ MonoBehaviour:
   m_Name: Post Profile
   m_EditorClassIdentifier: 
   settings:
-  - {fileID: 1907844733654786629}
+  - {fileID: 6951443967618215974}
   - {fileID: -607785232963371533}
   - {fileID: 1086053953420647841}
   - {fileID: -8558477435040194621}
@@ -1414,7 +1414,7 @@ MonoBehaviour:
   quality:
     overrideState: 0
     value: 2
---- !u!114 &1907844733654786629
+--- !u!114 &6951443967618215974
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1431,23 +1431,23 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   intensity:
-    overrideState: 1
-    value: 2.09
+    overrideState: 0
+    value: 3.08
   threshold:
-    overrideState: 1
-    value: 0.5
+    overrideState: 0
+    value: 1
   softKnee:
     overrideState: 0
-    value: 0
+    value: 0.78
   clamp:
     overrideState: 0
-    value: 65476.01
+    value: 65456.01
   diffusion:
-    overrideState: 1
-    value: 3.22
+    overrideState: 0
+    value: 5.65
   anamorphicRatio:
     overrideState: 0
-    value: 0
+    value: 1
   color:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
