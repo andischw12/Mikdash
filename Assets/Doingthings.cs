@@ -21,9 +21,22 @@ public class Doingthings : MonoBehaviour
         TargetArr = new Transform[FullsArr.Length];
         //ChangeMaterials();
         MeshFilterArr = Parts.GetComponentsInChildren<MeshFilter>();
-        ChangeMesh();
+        //ChangeMesh();
+        SetUVSize();
+
     }
     
+    void SetUVSize() 
+    {
+        foreach(Transform t in PartsArr) 
+        {
+            if (t.GetComponent<MeshRenderer>() != null) 
+            {
+                t.GetComponent<MeshRenderer>().scaleInLightmap = 5;
+            }
+        }
+    }
+
 
     void ChangeMesh() 
     {
