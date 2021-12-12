@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: '[free] Copper very old'
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: d9390d1e566004b318f201efd2e91d4e, type: 3}
   m_ShaderKeywords: _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -43,6 +43,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 516fa6f8baaf9d3419a538217c1ad9de, type: 3}
         m_Scale: {x: 0.76, y: 0.76}
         m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 2800000, guid: ca1de3d68524aae4a9ca321b60cccd61, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -55,23 +59,76 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTexDepth:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTexOther:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTexOtherDepth:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RefractionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RippleTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveNoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 0.1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 0.27
+    - _DeviceType: 1
     - _DstBlend: 0
+    - _EnableDepthBlur: -1
+    - _EnableMask: -1
+    - _EnableRipple: -1
+    - _EnableSimpleDepth: -1
+    - _EnableWave: -1
+    - _FarClip: 1000
     - _GlossMapScale: 0.887
     - _Glossiness: 0.83
     - _GlossyReflections: 1
+    - _LODLevel: 0
+    - _MaskCutoff: 0.5
+    - _MaskEdgeDarkness: 1
     - _Metallic: 1
+    - _MixBlackColor: 0
     - _Mode: 0
+    - _NearClip: 0.3
     - _OcclusionStrength: 0.231
     - _Parallax: 0.02
+    - _ReflectionIntensity: 0.5
+    - _ReflectionRefraction: 0
+    - _RippleDensity: 1
+    - _RippleRefraction: 0.02
+    - _RippleSize: 2
+    - _RippleSpeed: 0.3
+    - _SimpleDepthCutoff: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _WaveDistortion: 0.02
+    - _WaveSize: 12
+    - _WaveSpeed: 3
+    - _WorkType: 1
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.6475995, g: 0.8308824, b: 0.7929617, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MaskTiling: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

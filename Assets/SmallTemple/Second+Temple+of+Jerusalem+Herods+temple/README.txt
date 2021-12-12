@@ -1,0 +1,1 @@
+Second Temple of Jerusalem Herods temple by Aydelott on Thingiverse: https://www.thingiverse.com/thing:2085724

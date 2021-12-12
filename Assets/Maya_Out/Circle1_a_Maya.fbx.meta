@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: afc6541866bbc334899055556cab8cb6
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightarmor
+    second: {fileID: 2100000, guid: 6b70307963b18d648a2c199e78e84d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightbag
+    second: {fileID: 2100000, guid: 8e76af65b78f61d4796d315adc9462e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightbasket
+    second: {fileID: 2100000, guid: 5993248c7e1db784da6cde29eaf9e355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightcamel
+    second: {fileID: 2100000, guid: a4d60b5f428706b46a0373078afcd1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightcoffer
+    second: {fileID: 2100000, guid: 66cdca0e0a3ec814393de63715584a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightconcrete
+    second: {fileID: 2100000, guid: 721125bfcdf914d4aad23d038af8da3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightconcrete13
+    second: {fileID: 2100000, guid: c70a85111f8a57f4eba5b00bc79bfd4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightdonkey
+    second: {fileID: 2100000, guid: 5a6889ecf4dd2d94b98b5ac0d87e86b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lighthorse
+    second: {fileID: 2100000, guid: d65e567a2f50b854dbe057ff2d8a5e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightiron
+    second: {fileID: 2100000, guid: 5ff4aaa7720dcc44990413e2f7dd1515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightlady1
+    second: {fileID: 2100000, guid: 53e6b0242172c12469cfb061d66c548e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightlady2
+    second: {fileID: 2100000, guid: 3a86e836ac8f0fa4db128d51fdb705e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightlady3
+    second: {fileID: 2100000, guid: 95522e1ca3d621542b239ba4c43c5ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightlady4
+    second: {fileID: 2100000, guid: dcbc1d282a07ba249857f3e9e7740543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightman1
+    second: {fileID: 2100000, guid: 0ec95bf61d410e044af388095967c0a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightman2
+    second: {fileID: 2100000, guid: bef7e096d244b7a41b63091463e1fa3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightman3
+    second: {fileID: 2100000, guid: ab3c2491aeef03843be0753320986e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightman4
+    second: {fileID: 2100000, guid: cdfdd8f3773158a4c8842d567a3b0b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightmeat
+    second: {fileID: 2100000, guid: fab870aea0b4da84095b4c1836a90330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightrooftiles
+    second: {fileID: 2100000, guid: cf40494c5125dab44af9e4eca0d17620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightsegment1
+    second: {fileID: 2100000, guid: 45a95f20851f4534a8b195fd03e5899d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightsegment2
+    second: {fileID: 2100000, guid: 7c02001c008b3644182ceec726876aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightsegment3
+    second: {fileID: 2100000, guid: 025d2fed77841e041b1e4cbeb60c6b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightsegment4
+    second: {fileID: 2100000, guid: d6e85a1580bea6544bd74ed41bd55489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightstand
+    second: {fileID: 2100000, guid: 12fc5b2671c7dd042a6964901e762029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightstand_meat
+    second: {fileID: 2100000, guid: 6184aa104d1b6b241a216ec08595fffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightstone_floor
+    second: {fileID: 2100000, guid: d9273117219d94844a2e1df66e53453c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightwalls
+    second: {fileID: 2100000, guid: b133e0dfe019d5043a692363945f1323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightwalls_and_columns
+    second: {fileID: 2100000, guid: 726f0286c49a7ff40aa4190449975512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightwhite_marble
+    second: {fileID: 2100000, guid: 317b32f202d2ab447b1e112c0e7c29e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Converted_Lightwood26
+    second: {fileID: 2100000, guid: ea95df387e7b0f145ba1e2577b059bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: cd17b5da9ac509542987ae9bc0ef75c1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

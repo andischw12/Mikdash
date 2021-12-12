@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2137d079a3e8fd548a2653fba29e8ac6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _terrain_grass_01_n: {fileID: 2800000, guid: 84956715d52a7f040a6a341dfd449801,
+      type: 3}
+  - _terrain_mudslide_01_sg: {fileID: 2800000, guid: 3d2140ec449eb0049bc3eb51c3a7cf7b,
+      type: 3}
+  - _terrain_01_o: {fileID: 2800000, guid: 7b895c7902f0f4f43908aba30ba6c079, type: 3}
+  - _terrain_01_n: {fileID: 2800000, guid: e0a154ce4939e8e4c82784703d1a9221, type: 3}
+  - _null: {fileID: 2800000, guid: e0a154ce4939e8e4c82784703d1a9221, type: 3}
+  - _terrain_grass_01_a: {fileID: 2800000, guid: 7379bd0702051604e95990811452abc6,
+      type: 3}
+  - _terrain_mudslide_01_a: {fileID: 2800000, guid: afbd2772cfa009b46bbd9838dd988440,
+      type: 3}
+  - _terrain_grass_01_sg: {fileID: 2800000, guid: 592277751c386d34fa5609a321b5618e,
+      type: 3}
+  - _terrain_mudslide_01_n: {fileID: 2800000, guid: 527b74b713b11c54b8b3ee728b61cd6f,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

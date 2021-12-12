@@ -925,7 +925,7 @@ public class FirstPersonAIO : MonoBehaviour {
             EditorGUILayout.Space();
             GUI.enabled = t.enableCameraMovement;
             t.cameraInputMethod = (FirstPersonAIO.CameraInputMethod)EditorGUILayout.EnumPopup(new GUIContent("Input Method", "Determines the method used to rotate camera. \n\nTraditional uses the mouse on all axes. \nTraditional with constraints uses the mouse on the Y axis only. \nRetro uses Keybinds (left and right movement keys) to rotate the camera along the Y axis."),t.cameraInputMethod);
-            if(t.cameraInputMethod == FirstPersonAIO.CameraInputMethod.Traditional){t.verticalRotationRange = EditorGUILayout.Slider(new GUIContent("Vertical Rotation Range","Determines how much range does the camera have to move vertically."),t.verticalRotationRange,90,180);}
+            if(t.cameraInputMethod == FirstPersonAIO.CameraInputMethod.Traditional){t.verticalRotationRange = EditorGUILayout.Slider(new GUIContent("Vertical Rotation Range","Determines how much range does the camera have to move vertically."),t.verticalRotationRange*3,90,180);}
             if(t.cameraInputMethod == FirstPersonAIO.CameraInputMethod.Traditional || t.cameraInputMethod == FirstPersonAIO.CameraInputMethod.TraditionalWithConstraints){
             t.mouseInputInversion = (FirstPersonAIO.InvertMouseInput)EditorGUILayout.EnumPopup(new GUIContent("Mouse Input Inversion","Determines if mouse input should be inverted, and along which axes"),t.mouseInputInversion);
             t.mouseSensitivity = EditorGUILayout.Slider(new GUIContent("Mouse Sensitivity","Determines how sensitive the mouse is."),t.mouseSensitivity, 1,15);
